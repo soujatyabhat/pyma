@@ -1,2 +1,2 @@
-a = input("Enter your full name : ")
+a = input("Enter your  name : ")
 print("My name is : " + a)
